@@ -3,13 +3,13 @@
   "description": "Javascript WhatsApp bot made by Manul Official",
   "logo": "https://manul-official-new-api-site.vercel.app/manu-md",
   "keywords": ["bot"],
-  "success_url": "/",
+  "success_url": "mongodb+srv://xanori6184:h1Dlo4DRA2RW6cEf@pramo.ofmrxcq.mongodb.net/",
 
     "env": {
         "SESSION_ID": {
             "description": "Type the Session-ID you got from pair or scan qr.",
             "required": true,
-            "value": "put session id here"
+            "value": "Manu-MD&eB12jaCa#iy7pj0pLb0e5s1OTxBG1OYMKhyqoweK2SwaInUEW-nI"
         }
     },
     "buildpacks": [
