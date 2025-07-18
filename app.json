@@ -3,7 +3,7 @@
   "description": "Javascript WhatsApp bot made by Manul Official",
   "logo": "https://manul-official-new-api-site.vercel.app/manu-md",
   "keywords": ["bot"],
-  "success_url": "mongodb+srv://xanori6184:h1Dlo4DRA2RW6cEf@pramo.ofmrxcq.mongodb.net/",
+  "success_url": "mongodb+srv://javolef128:kdHmlVfHglwEoExh@pramodb.nefxrcd.mongodb.net/",
 
     "env": {
         "SESSION_ID": {
